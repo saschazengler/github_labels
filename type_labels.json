@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Type: discussion",
+    "color": "#D7756E"
+  },
+  {
+    "name": "Type: duplicate",
+    "color": "#F7AF9D"
+  },
+  {
+    "name": "Type: idea",
+    "color": "#F7E3AF"
+  },
+  {
+    "name": "Type: maintenance",
+    "color": "#86BBBD"
+  },
+  {
+    "name": "Type: question",
+    "color": "#6A6B83"
+  }
+]

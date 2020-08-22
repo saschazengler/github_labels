@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Status: abandoned",
+    "color": "#CC7E85"
+  },
+  {
+    "name": "Status: accepted",
+    "color": "#D6DBB2"
+  },
+  {
+    "name": "Status: approved",
+    "color": "#E3D985"
+  },
+  {
+    "name": "Status: available",
+    "color": "#E57A44"
+  },
+  {
+    "name": "Status: blocked",
+    "color": "#422040"
+  },
+  {
+    "name": "Status: completed",
+    "color": "#BCD8C1"
+  },
+  {
+    "name": "Status: help wanted",
+    "color": "#CF4D6F"
+  },
+  {
+    "name": "Status: in progress",
+    "color": "#A36D90"
+  },
+  {
+    "name": "Status: mergeable",
+    "color": "#76818E"
+  },
+  {
+    "name": "Status: on hold",
+    "color": "#5C5346"
+  },
+  {
+    "name": "Status: pending",
+    "color": "#4F3130"
+  },
+  {
+    "name": "Status: review needed",
+    "color": "#753742"
+  },
+  {
+    "name": "Status: revision needed",
+    "color": "#AA5042"
+  },
+  {
+    "name": "Status: skip code review",
+    "color": "#D8BD8A"
+  },
+  {
+    "name": "Status: testing",
+    "color": "#D8D78F"
+  },
+  {
+    "name": "Status: up next",
+    "color": "#79B791"
+  },
+  {
+    "name": "Status: watchlist",
+    "color": "#ABD1B5"
+  }
+]

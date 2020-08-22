@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Category: front end",
+    "color": "#D3D0CB"
+  },
+  {
+    "name": "Category: back end",
+    "color": "#E2C044"
+  },
+  {
+    "name": "Category: devops",
+    "color": "#1E2019"
+  },
+  {
+    "name": "Category: server",
+    "color": "#587B7F"
+  },
+  {
+    "name": "Category: unit test",
+    "color": "#393E41"
+  }
+]

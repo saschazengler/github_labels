@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Platform: angular",
+    "color": "#619B8A"
+  },
+  {
+    "name": "Platform: express.js",
+    "color": "#A1C181"
+  },
+  {
+    "name": "Platform: node.js",
+    "color": "#FE7F2D"
+  },
+  {
+    "name": "Platform: npm",
+    "color": "#233D4D"
+  },
+  {
+    "name": "Platform: react",
+    "color": "#FCCA46"
+  }
+]

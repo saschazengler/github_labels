@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Problem: bug",
+    "color": "#752140"
+  },
+  {
+    "name": "Problem: design",
+    "color": "#FFA5AB"
+  },
+  {
+    "name": "Problem: production",
+    "color": "#DA627D"
+  },
+  {
+    "name": "Problem: security",
+    "color": "#A53860"
+  }
+]
