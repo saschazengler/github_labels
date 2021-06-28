@@ -18,5 +18,17 @@
   {
     "name": "Platform: react",
     "color": "#FCCA46"
+  },
+  {
+    "name": "Platform: typescript",
+    "color": "#04d4e7"
+  },
+  {
+    "name": "Platform: webpack",
+    "color": "#8b5f3f"
+  },
+  {
+    "name": "Platform: mongodb",
+    "color": "#090446"
   }
 ]
