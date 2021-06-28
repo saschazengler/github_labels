@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Language: javascript",
+        "color": "#EF798A"
+    },
+    {
+        "name": "Language: typescript",
+        "color": "#F7A9A8"
+    },
+    {
+        "name": "Language: html",
+        "color": "#7D82B8"
+    },
+    {
+        "name": "Language: css",
+        "color": "#613F75"
+    },
+    {
+        "name": "Language: swift",
+        "color": "#E5C3D1"
+    },
+    {
+        "name": "Language: shell",
+        "color": "#F5D547"
+    }
+]
