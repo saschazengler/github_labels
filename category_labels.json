@@ -18,5 +18,13 @@
   {
     "name": "Category: unit test",
     "color": "#393E41"
+  },
+  {
+    "name": "Category: database",
+    "color": "#c5b358"
+  },
+  {
+    "name": "Category: css",
+    "color": "#d64045"
   }
 ]

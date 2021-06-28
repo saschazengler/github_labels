@@ -1,220 +1,240 @@
 [
-  [
-    {
-      "name": "Category: front end",
-      "color": "#D3D0CB"
-    },
-    {
-      "name": "Category: back end",
-      "color": "#E2C044"
-    },
-    {
-      "name": "Category: devops",
-      "color": "#1E2019"
-    },
-    {
-      "name": "Category: server",
-      "color": "#587B7F"
-    },
-    {
-      "name": "Category: unit test",
-      "color": "#393E41"
-    }
-  ],
-  [
-    {
-      "name": "Improvement: enhancement",
-      "color": "#F2C57C"
-    },
-    {
-      "name": "Improvement: optimization",
-      "color": "#DDAE7E"
-    },
-    {
-      "name": "Improvement: performance",
-      "color": "#AEB282"
-    },
-    {
-      "name": "Improvement: refactoring",
-      "color": "#7FB685"
-    }
-  ],
-  [
-    {
-      "name": "Inactive: duplicate",
-      "color": "#FDE8E9"
-    },
-    {
-      "name": "Inactive: invalid",
-      "color": "#E3BAC6"
-    },
-    {
-      "name": "Inactive: on hold",
-      "color": "#BC9EC1"
-    },
-    {
-      "name": "Inactive: wont fix",
-      "color": "#596475"
-    }
-  ],
-  [
-    {
-      "name": "Platform: angular",
-      "color": "#619B8A"
-    },
-    {
-      "name": "Platform: express.js",
-      "color": "#A1C181"
-    },
-    {
-      "name": "Platform: node.js",
-      "color": "#FE7F2D"
-    },
-    {
-      "name": "Platform: npm",
-      "color": "#233D4D"
-    },
-    {
-      "name": "Platform: react",
-      "color": "#FCCA46"
-    }
-  ],
-  [
-    {
-      "name": "Priority: critical",
-      "color": "#D55D48"
-    },
-    {
-      "name": "Priority: high",
-      "color": "#FFAE70"
-    },
-    {
-      "name": "Priority: low",
-      "color": "#6FBF4A"
-    },
-    {
-      "name": "Priority: medium",
-      "color": "#FFD747"
-    }
-  ],
-  [
-    {
-      "name": "Problem: bug",
-      "color": "#752140"
-    },
-    {
-      "name": "Problem: design",
-      "color": "#FFA5AB"
-    },
-    {
-      "name": "Problem: production",
-      "color": "#DA627D"
-    },
-    {
-      "name": "Problem: security",
-      "color": "#A53860"
-    }
-  ],
-  [
-    {
-      "name": "Status: abandoned",
-      "color": "#CC7E85"
-    },
-    {
-      "name": "Status: accepted",
-      "color": "#D6DBB2"
-    },
-    {
-      "name": "Status: approved",
-      "color": "#E3D985"
-    },
-    {
-      "name": "Status: available",
-      "color": "#E57A44"
-    },
-    {
-      "name": "Status: blocked",
-      "color": "#422040"
-    },
-    {
-      "name": "Status: completed",
-      "color": "#BCD8C1"
-    },
-    {
-      "name": "Status: help wanted",
-      "color": "#CF4D6F"
-    },
-    {
-      "name": "Status: in progress",
-      "color": "#A36D90"
-    },
-    {
-      "name": "Status: mergeable",
-      "color": "#76818E"
-    },
-    {
-      "name": "Status: on hold",
-      "color": "#5C5346"
-    },
-    {
-      "name": "Status: pending",
-      "color": "#4F3130"
-    },
-    {
-      "name": "Status: review needed",
-      "color": "#753742"
-    },
-    {
-      "name": "Status: revision needed",
-      "color": "#AA5042"
-    },
-    {
-      "name": "Status: skip code review",
-      "color": "#D8BD8A"
-    },
-    {
-      "name": "Status: testing",
-      "color": "#D8D78F"
-    },
-    {
-      "name": "Status: up next",
-      "color": "#79B791"
-    },
-    {
-      "name": "Status: watchlist",
-      "color": "#ABD1B5"
-    }
-  ],
-  [
-    {
-      "name": "Type: discussion",
-      "color": "#D7756E"
-    },
-    {
-      "name": "Type: duplicate",
-      "color": "#F7AF9D"
-    },
-    {
-      "name": "Type: idea",
-      "color": "#F7E3AF"
-    },
-    {
-      "name": "Type: maintenance",
-      "color": "#86BBBD"
-    },
-    {
-      "name": "Type: question",
-      "color": "#6A6B83"
-    }
-  ],
-  [
-    {
-      "name": "UX/UI: ui",
-      "color": "#19647E"
-    },
-    {
-      "name": "UX/UI: ux",
-      "color": "#FFC857"
-    }
-  ]
+    [
+        {
+            "name": "Category: front end",
+            "color": "#D3D0CB"
+        },
+        {
+            "name": "Category: back end",
+            "color": "#E2C044"
+        },
+        {
+            "name": "Category: devops",
+            "color": "#1E2019"
+        },
+        {
+            "name": "Category: server",
+            "color": "#587B7F"
+        },
+        {
+            "name": "Category: unit test",
+            "color": "#393E41"
+        },
+        {
+            "name": "Category: database",
+            "color": "#c5b358"
+        },
+        {
+            "name": "Category: css",
+            "color": "#d64045"
+        }
+    ],
+    [
+        {
+            "name": "Improvement: enhancement",
+            "color": "#F2C57C"
+        },
+        {
+            "name": "Improvement: optimization",
+            "color": "#DDAE7E"
+        },
+        {
+            "name": "Improvement: performance",
+            "color": "#AEB282"
+        },
+        {
+            "name": "Improvement: refactoring",
+            "color": "#7FB685"
+        }
+    ],
+    [
+        {
+            "name": "Inactive: duplicate",
+            "color": "#FDE8E9"
+        },
+        {
+            "name": "Inactive: invalid",
+            "color": "#E3BAC6"
+        },
+        {
+            "name": "Inactive: on hold",
+            "color": "#BC9EC1"
+        },
+        {
+            "name": "Inactive: wont fix",
+            "color": "#596475"
+        }
+    ],
+    [
+        {
+            "name": "Platform: angular",
+            "color": "#619B8A"
+        },
+        {
+            "name": "Platform: express.js",
+            "color": "#A1C181"
+        },
+        {
+            "name": "Platform: node.js",
+            "color": "#FE7F2D"
+        },
+        {
+            "name": "Platform: npm",
+            "color": "#233D4D"
+        },
+        {
+            "name": "Platform: react",
+            "color": "#FCCA46"
+        },
+        {
+            "name": "Platform: typescript",
+            "color": "#04d4e7"
+        },
+        {
+            "name": "Platform: webpack",
+            "color": "#8b5f3f"
+        },
+        {
+            "name": "Platform: mongodb",
+            "color": "#090446"
+        }
+    ],
+    [
+        {
+            "name": "Priority: critical",
+            "color": "#D55D48"
+        },
+        {
+            "name": "Priority: high",
+            "color": "#FFAE70"
+        },
+        {
+            "name": "Priority: low",
+            "color": "#6FBF4A"
+        },
+        {
+            "name": "Priority: medium",
+            "color": "#FFD747"
+        }
+    ],
+    [
+        {
+            "name": "Problem: bug",
+            "color": "#752140"
+        },
+        {
+            "name": "Problem: design",
+            "color": "#FFA5AB"
+        },
+        {
+            "name": "Problem: production",
+            "color": "#DA627D"
+        },
+        {
+            "name": "Problem: security",
+            "color": "#A53860"
+        }
+    ],
+    [
+        {
+            "name": "Status: abandoned",
+            "color": "#CC7E85"
+        },
+        {
+            "name": "Status: accepted",
+            "color": "#D6DBB2"
+        },
+        {
+            "name": "Status: approved",
+            "color": "#E3D985"
+        },
+        {
+            "name": "Status: available",
+            "color": "#E57A44"
+        },
+        {
+            "name": "Status: blocked",
+            "color": "#422040"
+        },
+        {
+            "name": "Status: completed",
+            "color": "#BCD8C1"
+        },
+        {
+            "name": "Status: help wanted",
+            "color": "#CF4D6F"
+        },
+        {
+            "name": "Status: in progress",
+            "color": "#A36D90"
+        },
+        {
+            "name": "Status: mergeable",
+            "color": "#76818E"
+        },
+        {
+            "name": "Status: on hold",
+            "color": "#5C5346"
+        },
+        {
+            "name": "Status: pending",
+            "color": "#4F3130"
+        },
+        {
+            "name": "Status: review needed",
+            "color": "#753742"
+        },
+        {
+            "name": "Status: revision needed",
+            "color": "#AA5042"
+        },
+        {
+            "name": "Status: skip code review",
+            "color": "#D8BD8A"
+        },
+        {
+            "name": "Status: testing",
+            "color": "#D8D78F"
+        },
+        {
+            "name": "Status: up next",
+            "color": "#79B791"
+        },
+        {
+            "name": "Status: watchlist",
+            "color": "#ABD1B5"
+        }
+    ],
+    [
+        {
+            "name": "Type: discussion",
+            "color": "#D7756E"
+        },
+        {
+            "name": "Type: duplicate",
+            "color": "#F7AF9D"
+        },
+        {
+            "name": "Type: idea",
+            "color": "#F7E3AF"
+        },
+        {
+            "name": "Type: maintenance",
+            "color": "#86BBBD"
+        },
+        {
+            "name": "Type: question",
+            "color": "#6A6B83"
+        }
+    ],
+    [
+        {
+            "name": "UX/UI: ui",
+            "color": "#19647E"
+        },
+        {
+            "name": "UX/UI: ux",
+            "color": "#FFC857"
+        }
+    ]
 ]
